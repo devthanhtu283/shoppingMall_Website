@@ -1,0 +1,52 @@
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Add New Room</h3>
+            </div>
+            <div class="card-body">
+                <form method="post" [formGroup]="addRoomForm" (ngSubmit)="save()">
+                    <table style="border-spacing: 20px; border-collapse: separate;">
+                        <tr>
+                            <td>Name</td>
+                            <td>
+                                <input type="text" pInputText formControlName="name" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Row</td>
+                            <td>
+                                <input type="text" pInputText formControlName="row" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Column</td>
+                            <td>
+                                <input type="text" pInputText formControlName="col" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Status</td>
+                            <td>
+                                <p-inputSwitch formControlName="status"></p-inputSwitch>
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p-button label="Save" (onClick)="save()"></p-button>
+                                &nbsp;
+                                <p-button label="Back" [routerLink]="['/admin/room-listing']"></p-button>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <p-toast></p-toast>

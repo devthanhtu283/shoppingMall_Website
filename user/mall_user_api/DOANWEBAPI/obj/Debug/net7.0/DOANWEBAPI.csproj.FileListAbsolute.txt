@@ -1,0 +1,374 @@
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\appsettings.json
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.exe
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.deps.json
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.runtimeconfig.json
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.pdb
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\BCrypt.Net-Core.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Castle.Core.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Humanizer.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.AssemblyReference.cache
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfoInputs.cache
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfo.cs
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CoreCompileInputs.cache
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.DOANWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DOANWEBAPI.props
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOANWEBAPI.props
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOANWEBAPI.props
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\scopedcss\bundle\DOANWEBAPI.styles.css
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CopyComplete
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\refint\DOANWEBAPI.dll
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.pdb
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.genruntimeconfig.cache
+D:\Aptech\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\ref\DOANWEBAPI.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\appsettings.json
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.staticwebassets.runtime.json
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.exe
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.deps.json
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.runtimeconfig.json
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.pdb
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\BCrypt.Net-Core.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Castle.Core.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Humanizer.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.AssemblyReference.cache
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfoInputs.cache
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfo.cs
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CoreCompileInputs.cache
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.DOANWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DOANWEBAPI.props
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOANWEBAPI.props
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOANWEBAPI.props
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\scopedcss\bundle\DOANWEBAPI.styles.css
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CopyComplete
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\refint\DOANWEBAPI.dll
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.pdb
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.genruntimeconfig.cache
+D:\hoc tap\angular\project\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\ref\DOANWEBAPI.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.staticwebassets.runtime.json
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.exe
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.deps.json
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.pdb
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\BCrypt.Net-Core.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.DOANWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DOANWEBAPI.props
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOANWEBAPI.props
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOANWEBAPI.props
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\scopedcss\bundle\DOANWEBAPI.styles.css
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\refint\DOANWEBAPI.dll
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.pdb
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Documents\Aimee\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\ref\DOANWEBAPI.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\appsettings.json
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.staticwebassets.runtime.json
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.exe
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.deps.json
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.runtimeconfig.json
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.pdb
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\BCrypt.Net-Core.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Castle.Core.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Humanizer.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.AssemblyReference.cache
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfoInputs.cache
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfo.cs
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CoreCompileInputs.cache
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.DOANWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DOANWEBAPI.props
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOANWEBAPI.props
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOANWEBAPI.props
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\scopedcss\bundle\DOANWEBAPI.styles.css
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CopyComplete
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\refint\DOANWEBAPI.dll
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.pdb
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.genruntimeconfig.cache
+D:\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\DOANWEBAPI\obj\Debug\net7.0\ref\DOANWEBAPI.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\appsettings.json
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.staticwebassets.runtime.json
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.exe
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.deps.json
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.runtimeconfig.json
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\DOANWEBAPI.pdb
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\BCrypt.Net-Core.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Castle.Core.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Humanizer.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.AssemblyReference.cache
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfoInputs.cache
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.AssemblyInfo.cs
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CoreCompileInputs.cache
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.DOANWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DOANWEBAPI.props
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOANWEBAPI.props
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOANWEBAPI.props
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\scopedcss\bundle\DOANWEBAPI.styles.css
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.csproj.CopyComplete
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\refint\DOANWEBAPI.dll
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.pdb
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\DOANWEBAPI.genruntimeconfig.cache
+D:\hoc tap\doanaptech\C2110L_Nhom-2-ABC_OnlineMallManagement\user\mall_user_api\DOANWEBAPI\obj\Debug\net7.0\ref\DOANWEBAPI.dll

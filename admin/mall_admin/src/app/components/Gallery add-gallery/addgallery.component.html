@@ -1,0 +1,38 @@
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Add New Photo</h3>
+            </div>
+            <div class="card-body">
+                <form method="post" [formGroup]="addGalleryForm" (ngSubmit)="save()">
+                    <table style="border-spacing: 20px; border-collapse: separate;">
+                        <tr>
+                            <td>Description</td>
+                            <td>
+                                <textarea cols="30" rows="5" formControlName="description"></textarea>
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>File</td>
+                            <td>
+                                <input type="file" class="btn btn-block btn-default" (change)="selectFile($event)">
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p-button label="Save" (onClick)="save()"></p-button>
+                                &nbsp;
+                                <p-button label="Back" [routerLink]="['/admin/gallery-listing']"></p-button>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <p-toast></p-toast>

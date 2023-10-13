@@ -1,0 +1,37 @@
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Product Detail</h3>
+            </div>
+            <ng-container *ngIf="product != null">
+                <div class="card-body">
+                    <table class="table table-bordered table-hover" border="1">
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Image</th>
+                            <th>Price</th>
+                            <th>Description</th>
+                            <th>Sale ID</th>
+                            <th>Category ID</th>
+                        </tr>
+                        <tr>
+                            <td>{{ product.id }}</td>
+                            <td>{{ product.name }}</td>
+                            <td>
+                                <img src="{{ product.image }}" width="120" height="100" />
+                            </td>
+                            <td>{{ product.price }}</td>
+                            <td>{{ product.description }}</td>
+                            <td>{{ product.idsale }}</td>
+                            <td>{{ product.idcategory }}</td>
+                        </tr>
+                    </table>
+                    <br />
+                    <p-button label="Back" [routerLink]="['/admin/product-listing']"></p-button>
+                </div>
+            </ng-container>
+        </div>
+    </div>
+</section>

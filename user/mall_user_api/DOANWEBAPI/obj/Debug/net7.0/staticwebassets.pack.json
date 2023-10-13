@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\-202308181955453934.jpg",
+      "PackagePath": "staticwebassets\\img\\-202308181955453934.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\09782eaf065845e18350f4f1fc2bbfb6.jpg",
+      "PackagePath": "staticwebassets\\img\\09782eaf065845e18350f4f1fc2bbfb6.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\123.png",
+      "PackagePath": "staticwebassets\\img\\123.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\162213c365177acb05bb01da9c49c9e5.jpg",
+      "PackagePath": "staticwebassets\\img\\162213c365177acb05bb01da9c49c9e5.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\1F-ALDO.jpg",
+      "PackagePath": "staticwebassets\\img\\1F-ALDO.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\1F-ECCO.jpg",
+      "PackagePath": "staticwebassets\\img\\1F-ECCO.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\1F-MUJOSH.jpg",
+      "PackagePath": "staticwebassets\\img\\1F-MUJOSH.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\1F-PEDRO.jpg",
+      "PackagePath": "staticwebassets\\img\\1F-PEDRO.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\1F-levis.jpg",
+      "PackagePath": "staticwebassets\\img\\1F-levis.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\2-goi-banh-trung-tuoi-cha-bong-richy-156g-202308031402320353_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\2-goi-banh-trung-tuoi-cha-bong-richy-156g-202308031402320353_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\20d0f9fe0e5277a0d692452aaf92265a.jpg",
+      "PackagePath": "staticwebassets\\img\\20d0f9fe0e5277a0d692452aaf92265a.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\23cc6f07cd7c4d19aa8a8011099da004.jpg",
+      "PackagePath": "staticwebassets\\img\\23cc6f07cd7c4d19aa8a8011099da004.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\23cc6kilcd7c4d19aa8a8011099da004.jpg.jpg",
+      "PackagePath": "staticwebassets\\img\\23cc6kilcd7c4d19aa8a8011099da004.jpg.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\2702e24e36c846cd934478187e428b4f.jpg",
+      "PackagePath": "staticwebassets\\img\\2702e24e36c846cd934478187e428b4f.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\297ce347e8644bdc9795d3906acde2be.jpg",
+      "PackagePath": "staticwebassets\\img\\297ce347e8644bdc9795d3906acde2be.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\2F-CHARLES-KEITH.jpg",
+      "PackagePath": "staticwebassets\\img\\2F-CHARLES-KEITH.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\322198535_3499328856946061_4107266628560736765_n.png",
+      "PackagePath": "staticwebassets\\img\\322198535_3499328856946061_4107266628560736765_n.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\3d3dc0dcdf24bf5c80c0a807cd768cfa.jpg",
+      "PackagePath": "staticwebassets\\img\\3d3dc0dcdf24bf5c80c0a807cd768cfa.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\4ba4699f14fc44e9bbc303325c26fd50.jpg",
+      "PackagePath": "staticwebassets\\img\\4ba4699f14fc44e9bbc303325c26fd50.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\55b468db42d44d1a8d191af265f04437.jpg",
+      "PackagePath": "staticwebassets\\img\\55b468db42d44d1a8d191af265f04437.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\5F-Hutong.jpg",
+      "PackagePath": "staticwebassets\\img\\5F-Hutong.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\5F-SUSHI-KEI.jpg",
+      "PackagePath": "staticwebassets\\img\\5F-SUSHI-KEI.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\5e03a3c0501f44cd425558b4f772b918.jpg",
+      "PackagePath": "staticwebassets\\img\\5e03a3c0501f44cd425558b4f772b918.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\5f2b0da52b17454396471b7ce0a3a42c.jpg",
+      "PackagePath": "staticwebassets\\img\\5f2b0da52b17454396471b7ce0a3a42c.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\647e5c557ea5451cb85027007b26a9db.jpg",
+      "PackagePath": "staticwebassets\\img\\647e5c557ea5451cb85027007b26a9db.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\7ed4a6ef771545dfa65f03000a4cb54a.jpg",
+      "PackagePath": "staticwebassets\\img\\7ed4a6ef771545dfa65f03000a4cb54a.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\80c4f7e387cc05ce50f2902bb59f621d5.jpg",
+      "PackagePath": "staticwebassets\\img\\80c4f7e387cc05ce50f2902bb59f621d5.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\80c4f7e387cc05ce50f2906a59f621d5.jpg",
+      "PackagePath": "staticwebassets\\img\\80c4f7e387cc05ce50f2906a59f621d5.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\8972dea2f371a38a07ea7986cacaa31b.jpg",
+      "PackagePath": "staticwebassets\\img\\8972dea2f371a38a07ea7986cacaa31b.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\Anh 5.jpg",
+      "PackagePath": "staticwebassets\\img\\Anh 5.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\BIGFUN.png",
+      "PackagePath": "staticwebassets\\img\\BIGFUN.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\Giay_Duramo_SL_2.0_DJen_GW8336_01_standard.png",
+      "PackagePath": "staticwebassets\\img\\Giay_Duramo_SL_2.0_DJen_GW8336_01_standard.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\LOGO-CLEVER-BOX-logo.png",
+      "PackagePath": "staticwebassets\\img\\LOGO-CLEVER-BOX-logo.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\Logo-MoMo-Circle.webp",
+      "PackagePath": "staticwebassets\\img\\Logo-MoMo-Circle.webp"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\MLB.png",
+      "PackagePath": "staticwebassets\\img\\MLB.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\a084d7d5945f47228d580a25_cut_800x500_252.png",
+      "PackagePath": "staticwebassets\\img\\a084d7d5945f47228d580a25_cut_800x500_252.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\a1b8753abc75bfbf209396828152fe7f.jpg",
+      "PackagePath": "staticwebassets\\img\\a1b8753abc75bfbf209396828152fe7f.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\aa.jpg",
+      "PackagePath": "staticwebassets\\img\\aa.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\adidas-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\adidas-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\adidas-sale.jpg",
+      "PackagePath": "staticwebassets\\img\\adidas-sale.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\adidas.jpg",
+      "PackagePath": "staticwebassets\\img\\adidas.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\aptech.jpg",
+      "PackagePath": "staticwebassets\\img\\aptech.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\b9ebe0ffb5b6477048cdcbc7860a1927.jpg",
+      "PackagePath": "staticwebassets\\img\\b9ebe0ffb5b6477048cdcbc7860a1927.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\back-to-school-la-gi-va-lich-cua-mot-so-nuoc-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\back-to-school-la-gi-va-lich-cua-mot-so-nuoc-thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\balo.png",
+      "PackagePath": "staticwebassets\\img\\balo.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\banner1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\banner3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\bookbg.jpg",
+      "PackagePath": "staticwebassets\\img\\bookbg.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\bookbg1.jpg",
+      "PackagePath": "staticwebassets\\img\\bookbg1.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\c7d979e032a4b5fc867db647eace09cd.jpg",
+      "PackagePath": "staticwebassets\\img\\c7d979e032a4b5fc867db647eace09cd.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\ca-ngu-o-nuong-300g-202305150814239386_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\ca-ngu-o-nuong-300g-202305150814239386_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\ca-rot-500g-2-5-cu-clone-202307281310270448.jpg",
+      "PackagePath": "staticwebassets\\img\\ca-rot-500g-2-5-cu-clone-202307281310270448.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\canh-ga-dong-lanh-cp-1kg-6-10-canh-202308171346027180_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\canh-ga-dong-lanh-cp-1kg-6-10-canh-202308171346027180_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\carousel-1.png",
+      "PackagePath": "staticwebassets\\img\\carousel-1.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\carousel-2.png",
+      "PackagePath": "staticwebassets\\img\\carousel-2.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\carousel-bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\carousel-bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-bg-2.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\dau-hao-dam-dac-maggi-chai-530g-202305221133384939_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\dau-hao-dam-dac-maggi-chai-530g-202305221133384939_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\dd14b33c30caadbd9c975b8aff79efd5.jpg",
+      "PackagePath": "staticwebassets\\img\\dd14b33c30caadbd9c975b8aff79efd5.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\de43d97ed6884c5f8af71e94529b3972.jpg",
+      "PackagePath": "staticwebassets\\img\\de43d97ed6884c5f8af71e94529b3972.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\dui-bo-nhap-khau-dong-lanh-500gr-202308171356157488_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\dui-bo-nhap-khau-dong-lanh-500gr-202308171356157488_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\duong-vang-an-khe-goi-1kg-202205161519521082_300x300.png",
+      "PackagePath": "staticwebassets\\img\\duong-vang-an-khe-goi-1kg-202205161519521082_300x300.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\e180ca83ee7048df895223cb82bb75f7.jpg",
+      "PackagePath": "staticwebassets\\img\\e180ca83ee7048df895223cb82bb75f7.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\e4b7c81faf3d4f12af04a3268eeb55ae.jpg",
+      "PackagePath": "staticwebassets\\img\\e4b7c81faf3d4f12af04a3268eeb55ae.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\e72e563af271aa8c5de9651d31511931.jpg",
+      "PackagePath": "staticwebassets\\img\\e72e563af271aa8c5de9651d31511931.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\eb4edfb819f3427b880aa29525343435.jpg",
+      "PackagePath": "staticwebassets\\img\\eb4edfb819f3427b880aa29525343435.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\f3738a6e59f94fa2b807518cfd25bffc.jpg",
+      "PackagePath": "staticwebassets\\img\\f3738a6e59f94fa2b807518cfd25bffc.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\f4e81c3b6ef7f91b0401c0608ad9a559.jpg",
+      "PackagePath": "staticwebassets\\img\\f4e81c3b6ef7f91b0401c0608ad9a559.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\gan-heo-300g-202306220840063850_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\gan-heo-300g-202306220840063850_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\gao-dac-san-trang-nguyen-vinh-hien-st25-tui-5kg-202308171039458280_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\gao-dac-san-trang-nguyen-vinh-hien-st25-tui-5kg-202308171039458280_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hachi-nhap-khau-0811202211150.png",
+      "PackagePath": "staticwebassets\\img\\hachi-nhap-khau-0811202211150.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh.jpg",
+      "PackagePath": "staticwebassets\\img\\hinh.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh1shophighland.jpg",
+      "PackagePath": "staticwebassets\\img\\hinh1shophighland.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh2chuck.png",
+      "PackagePath": "staticwebassets\\img\\hinh2chuck.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh2raucu.png",
+      "PackagePath": "staticwebassets\\img\\hinh2raucu.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh3stabuck.jpg",
+      "PackagePath": "staticwebassets\\img\\hinh3stabuck.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh4SWENSENS.jpg",
+      "PackagePath": "staticwebassets\\img\\hinh4SWENSENS.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh5F-Gogi.jpg",
+      "PackagePath": "staticwebassets\\img\\hinh5F-Gogi.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh5F-Kichi.jpg",
+      "PackagePath": "staticwebassets\\img\\hinh5F-Kichi.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinh5F-sumobbq.jpg",
+      "PackagePath": "staticwebassets\\img\\hinh5F-sumobbq.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinhANKARAZ.png",
+      "PackagePath": "staticwebassets\\img\\hinhANKARAZ.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinhBaskin_Robbins.jpg",
+      "PackagePath": "staticwebassets\\img\\hinhBaskin_Robbins.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinhHaidilao2.png",
+      "PackagePath": "staticwebassets\\img\\hinhHaidilao2.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinhIgloo.png",
+      "PackagePath": "staticwebassets\\img\\hinhIgloo.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinhMochi-Sweet.jpg",
+      "PackagePath": "staticwebassets\\img\\hinhMochi-Sweet.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinhTrung-nguyên-Coffee.jpg",
+      "PackagePath": "staticwebassets\\img\\hinhTrung-nguyên-Coffee.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hinhUniqlo.png",
+      "PackagePath": "staticwebassets\\img\\hinhUniqlo.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\hop-6-hu-to-yen-chung-san-sai-gon-anpha-huong-sam-70ml-202306211707181167_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\hop-6-hu-to-yen-chung-san-sai-gon-anpha-huong-sam-70ml-202306211707181167_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\img-5199-min.png",
+      "PackagePath": "staticwebassets\\img\\img-5199-min.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\kem-cau-vong-iberri-hop-250g-202307100924049820_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-cau-vong-iberri-hop-250g-202307100924049820_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\kem-dua-iberri-hop-250g-202307040837369478_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-dua-iberri-hop-250g-202307040837369478_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\kem-duong-da-ban-ngay-bio-essence-bio-white-duong-trang-50g-202306300830578134_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-duong-da-ban-ngay-bio-essence-bio-white-duong-trang-50g-202306300830578134_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\kem-que-pho-mai-tran-chau-hoang-kim-celano-65g-202306291501116302_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-que-pho-mai-tran-chau-hoang-kim-celano-65g-202306291501116302_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\kem-que-tran-chau-dau-pho-mai-celano-passion-65g-202306291503190104_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-que-tran-chau-dau-pho-mai-celano-passion-65g-202306291503190104_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\kem-socola-iberri-hop-250g-nhap-khau-thai-lan-202307040838199780_300x300 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\kem-socola-iberri-hop-250g-nhap-khau-thai-lan-202307040838199780_300x300 (1).jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\kem-socola-iberri-hop-250g-nhap-khau-thai-lan-202307040838199780_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\kem-socola-iberri-hop-250g-nhap-khau-thai-lan-202307040838199780_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\kem-socola-manh-vi-vani-iberri-hop-250g-nhap-khau-thai-lan-202306291547043855_300x300 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\kem-socola-manh-vi-vani-iberri-hop-250g-nhap-khau-thai-lan-202306291547043855_300x300 (1).jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\la-mia-heo-300g-202306220839469805_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\la-mia-heo-300g-202306220839469805_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter (2).jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter (2).jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter (3).jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter (3).jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter (4).jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter (4).jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter (5).jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter (5).jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter (6).jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter (6).jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter (7).jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter (7).jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter.jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter1.jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter1.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\largeposter2.jpg",
+      "PackagePath": "staticwebassets\\img\\largeposter2.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\lehoimuathu.png",
+      "PackagePath": "staticwebassets\\img\\lehoimuathu.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\logo-ila.png",
+      "PackagePath": "staticwebassets\\img\\logo-ila.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\logopaypal.webp",
+      "PackagePath": "staticwebassets\\img\\logopaypal.webp"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\logovnpay.png",
+      "PackagePath": "staticwebassets\\img\\logovnpay.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\map.jpg",
+      "PackagePath": "staticwebassets\\img\\map.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\mi-soi-6-trung-bartolini-goi-250g-202205231316082216_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\mi-soi-6-trung-bartolini-goi-250g-202205231316082216_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\mi-spaghetti-so-4-biondi-goi-500g-202207260900121669_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\mi-spaghetti-so-4-biondi-goi-500g-202207260900121669_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\my-gao-chu-my-vuong-goi-500g-202305100842555667_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\my-gao-chu-my-vuong-goi-500g-202305100842555667_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\nuoc-mam-cao-cap-dau-bep-tom-chai-720ml-202306121433213306_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\nuoc-mam-cao-cap-dau-bep-tom-chai-720ml-202306121433213306_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\phuong-nam-book-city.jpg",
+      "PackagePath": "staticwebassets\\img\\phuong-nam-book-city.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service-2.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\img\\service-3.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\img\\service-4.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\starbg.jpg",
+      "PackagePath": "staticwebassets\\img\\starbg.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\starbug.png",
+      "PackagePath": "staticwebassets\\img\\starbug.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\taixuong.jpg",
+      "PackagePath": "staticwebassets\\img\\taixuong.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\thung-12-hop-sua-tuoi-nguyen-kem-khong-duong-inex-1-lit-san-xuat-tu-bi-202304262227243897_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\thung-12-hop-sua-tuoi-nguyen-kem-khong-duong-inex-1-lit-san-xuat-tu-bi-202304262227243897_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\thung-12-hop-sua-tuoi-tiet-trung-nguyen-kem-meadow-fresh-1-lit-san-xuat-tu-new-zealand-202306170857584177_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\thung-12-hop-sua-tuoi-tiet-trung-nguyen-kem-meadow-fresh-1-lit-san-xuat-tu-new-zealand-202306170857584177_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\thung-48-hop-sua-tuoi-co-duong-vinamilk-180ml-202306170849505866_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\thung-48-hop-sua-tuoi-co-duong-vinamilk-180ml-202306170849505866_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\tinh-bot-nghe-vang-xuan-nguyen-hu-160g-202306271443362752_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\tinh-bot-nghe-vang-xuan-nguyen-hu-160g-202306271443362752_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\tra-uop-hoa-hong-kim-anh-green-cup-goi-50g-202307151802329165_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\tra-uop-hoa-hong-kim-anh-green-cup-goi-50g-202307151802329165_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\tải xuống.jpg",
+      "PackagePath": "staticwebassets\\img\\tải xuống.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\vien-tha-lau-bep-5-sao-goi-300g-202308051521547202_300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\vien-tha-lau-bep-5-sao-goi-300g-202308051521547202_300x300.jpg"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\vnpay.png",
+      "PackagePath": "staticwebassets\\img\\vnpay.png"
+    },
+    {
+      "Id": "D:\\hoc tap\\doanaptech\\C2110L_Nhom-2-ABC_OnlineMallManagement\\user\\mall_user_api\\DOANWEBAPI\\wwwroot\\img\\z4615251281188_95f98695f9c3533e7dd4c285d3a3efc0.jpg",
+      "PackagePath": "staticwebassets\\img\\z4615251281188_95f98695f9c3533e7dd4c285d3a3efc0.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DOANWEBAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DOANWEBAPI.props",
+      "PackagePath": "build\\DOANWEBAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DOANWEBAPI.props",
+      "PackagePath": "buildMultiTargeting\\DOANWEBAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DOANWEBAPI.props",
+      "PackagePath": "buildTransitive\\DOANWEBAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

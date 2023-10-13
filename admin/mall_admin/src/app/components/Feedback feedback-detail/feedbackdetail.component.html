@@ -1,0 +1,32 @@
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Feedback Detail</h3>
+            </div>
+            <ng-container *ngIf="feedback != null">
+                <div class="card-body">
+                    <table class="table table-bordered table-hover">
+                        <tr>
+                            <th>ID</th>
+                            <th>Title</th>
+                            <th>Name</th>
+                            <th>Message</th>
+                            <th>Created</th>
+                            <th>Value</th>
+                        </tr>
+                        <tr>
+                            <td>{{ feedback.id }}</td>
+                            <td>{{ feedback.title }}</td>
+                            <td>{{ feedback.name }}</td>
+                            <td>{{ feedback.message }}</td>
+                            <td>{{ feedback.created }}</td>
+                            <td>{{ feedback.value }}</td>
+                        </tr>
+                    </table>
+                    <br />
+                </div>
+            </ng-container>
+        </div>
+    </div>
+</section>

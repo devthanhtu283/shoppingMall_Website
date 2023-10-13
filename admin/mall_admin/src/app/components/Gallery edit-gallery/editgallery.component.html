@@ -1,0 +1,43 @@
+<section class="content">
+    <div class="container-fluid">       
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Edit Photo</h3>
+            </div>
+            <ng-container *ngIf="editGalleryForm != null">
+                <div class="card-body">
+                    <form method="post" [formGroup]="editGalleryForm" (ngSubmit)="save()">
+                        <table style="border-spacing: 20px; border-collapse: separate;">
+                            <tr>
+                                <td>Description</td>
+                                <td>
+                                    <textarea cols="30" rows="5" pInputTextarea
+                                        formControlName="description"></textarea>
+                                </td>
+                            </tr>
+                            <br />
+                            <tr>
+                                <td>File</td>
+                                <td>
+                                    <input type="file" class="btn btn-block btn-default" (change)="selectFile($event)" />
+                                    <br />
+                                    <img src="{{ gallery.coverImg }}" width="90" height="100" />
+                                </td>
+                            </tr>
+                            <br />
+                            <tr>
+                                <td>&nbsp;</td>
+                                <td>
+                                    <p-button label="Save" (onClick)="save()"></p-button>
+                                    &nbsp;
+                                    <p-button label="Cancel" [routerLink]="['/admin/gallery-listing']"></p-button>
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+            </ng-container>
+        </div>
+    </div>
+</section>
+<p-toast></p-toast>

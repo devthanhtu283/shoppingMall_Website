@@ -1,0 +1,45 @@
+<div class="container-fluid">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Feedback</h3>
+            </div>
+            <ng-container *ngIf="feedbacks != null">
+                <p-table [value]="feedbacks" [paginator]="true" [rows]="10" [showCurrentPageReport]="true"
+                    [tableStyle]="{ 'min-width': '50rem' }"
+                    currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+                    [rowsPerPageOptions]="[10, 25, 50]">
+                    <ng-template pTemplate="header">
+                        <tr>
+                            <th>ID</th>
+                            <th>Title</th>
+                            <th>Name</th>
+                            <th>Message</th>
+                            <th>Created</th>
+                            <th>Value</th>
+                            <th>Action</th>
+                        </tr>
+                    </ng-template>
+                    <ng-template pTemplate="body" let-feedback>
+                        <tr>
+                            <td>{{feedback.id}}</td>
+                            <td>
+                                {{feedback.title}}
+                            </td>
+                            <td>{{feedback.name}}</td>
+                            <td>{{feedback.message}}</td>
+                            <td>{{feedback.created}}</td>
+                            <td>
+                                <p-rating [(ngModel)]="feedback.value" [cancel]="false"></p-rating>
+                            </td>
+                            <td>
+                                <p-button label="Delete" (click)="delete(feedback.id)"></p-button>
+                            </td>
+                        </tr>
+                    </ng-template>
+                </p-table>
+            </ng-container>
+        </div>
+
+        <p-confirmDialog [style]="{ width: '50vw' }"></p-confirmDialog>
+        <p-toast></p-toast>

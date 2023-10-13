@@ -1,0 +1,42 @@
+<br>
+&nbsp;<input type="button" value="Add new" class="btn btn-n btn-default" (click)="addNew()" />
+<br><br>
+<div class="container-fluid">
+    <div class="card card-primary">
+        <div class="card-header">
+            <h3>Gallery Library</h3>
+        </div>
+
+        <ng-container *ngIf="galleries != null">
+            <p-table [value]="galleries" [tableStyle]="{ 'min-width': '50rem' }">
+                <ng-template pTemplate="header">
+                    <tr>
+                        <th>ID</th>
+                        <th>Image</th>
+                        <th>Description</th>
+                        <th>Action</th>
+                    </tr>
+                </ng-template>
+                <ng-template pTemplate="body" let-gallery>
+                    <tr>
+                        <td>{{gallery.id}}</td>
+                        <td>
+                            <p-image src="{{gallery.coverImg}}" alt="Image"
+                                width="150" [preview]="true"></p-image>
+                        </td>
+                        <td>{{gallery.description}}</td>
+                        <td>
+                            <p-button label="Edit"
+                                [routerLink]="['/admin/edit-gallery', { id: gallery.id }]"></p-button>
+                            &nbsp;
+                            <p-button label="Delete" (click)="delete(gallery.id)"></p-button>
+                        </td>
+                    </tr>
+                </ng-template>
+            </p-table>
+        </ng-container>
+    </div>
+</div>
+
+<p-confirmDialog [style]="{width: '50vw'}"></p-confirmDialog>
+<p-toast></p-toast>

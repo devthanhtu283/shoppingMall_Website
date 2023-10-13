@@ -1,0 +1,78 @@
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Add New Show</h3>
+            </div>
+            <div class="card-body">
+                <form method="post" [formGroup]="addShowForm" (ngSubmit)="save()">
+                    <table style="border-spacing: 20px; border-collapse: separate;">
+                        <tr>
+                            <td>Date</td>
+                            <td>
+                                <p-calendar formControlName="dateRelease"></p-calendar>
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Price</td>
+                            <td>
+                                <input type="text" pInputText formControlName="price" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Status</td>
+                            <td>
+                                <p-inputSwitch formControlName="status"></p-inputSwitch>
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Room</td>
+                            <select class="custom-select rounded-0" formControlName="roomId">
+                                <ng-container *ngIf="rooms != null">
+                                    <option *ngFor="let room of rooms" value="{{ room.id }}">
+                                        {{ room.name }}
+                                    </option>
+                                </ng-container>
+                            </select>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Movie</td>
+                            <select class="custom-select rounded-0" formControlName="movieId">
+                                <ng-container *ngIf="movies != null">
+                                    <option *ngFor="let movie of movies" value="{{ movie.id }}">
+                                        {{ movie.name }}
+                                    </option>
+                                </ng-container>
+                            </select>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>TimeSlot</td>
+                            <select class="custom-select rounded-0" formControlName="timeslotId">
+                                <ng-container *ngIf="timeslots != null">
+                                    <option *ngFor="let timeslot of timeslots" value="{{ timeslot.id }}">
+                                        {{ timeslot.name }}
+                                    </option>
+                                </ng-container>
+                            </select>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p-button label="Save" (onClick)="save()"></p-button>
+                                &nbsp;
+                                <p-button label="Back" [routerLink]="['/admin/show-listing']"></p-button>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <p-toast></p-toast>

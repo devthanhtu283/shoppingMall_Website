@@ -1,0 +1,227 @@
+<div class="main-banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 align-self-center">
+        <div class="caption header-text">
+          <h6>Welcome to cinema</h6>
+          <h2>BEST CINEMA EVER!</h2>
+          <p>
+            Location: Ground floor, ABCD Mall, 123 Street, New York, USA <br />
+            Email: cinema.abcdmall@gmail.com <br />
+            Phone: +012 345 6789
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-4 offset-lg-2"></div>
+    </div>
+  </div>
+</div>
+
+<div class="section trending">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="section-heading">
+          <h2 style="text-align: center">Show Times</h2>
+        </div>
+      </div>
+
+      <!-- Date -->
+      <div class="col-lg-12">
+        <div
+          style="margin-bottom: 20px"
+          class="btn-group"
+          role="group"
+          aria-label="Basic radio toggle button group"
+        >
+          <input
+            (click)="check($event)"
+            value="{{ date1 | date : 'fullDate' }}"
+            type="radio"
+            class="btn-check"
+            name="btnradio"
+            id="btnradio1"
+            autocomplete="off"
+            checked
+          />
+          <label
+            class="btn btn-outline-primary"
+            style="font-size: 15px"
+            for="btnradio1"
+            >{{ date1 | date : "fullDate" }}</label
+          >
+
+          <input
+            (click)="check($event)"
+            value="{{ date2 | date : 'fullDate' }}"
+            type="radio"
+            class="btn-check"
+            name="btnradio"
+            id="btnradio2"
+            autocomplete="off"
+          />
+          <label
+            class="btn btn-outline-primary"
+            style="font-size: 15px"
+            for="btnradio2"
+            >{{ date2 | date : "fullDate" }}</label
+          >
+
+          <input
+            (click)="check($event)"
+            value="{{ date3 | date : 'fullDate' }}"
+            type="radio"
+            class="btn-check"
+            name="btnradio"
+            id="btnradio3"
+            autocomplete="off"
+          />
+          <label
+            class="btn btn-outline-primary"
+            style="font-size: 15px"
+            for="btnradio3"
+            >{{ date3 | date : "fullDate" }}</label
+          >
+
+          <input
+            (click)="check($event)"
+            value="{{ date4 | date : 'fullDate' }}"
+            type="radio"
+            class="btn-check"
+            name="btnradio"
+            id="btnradio4"
+          />
+          <label
+            class="btn btn-outline-primary"
+            style="font-size: 15px"
+            for="btnradio4"
+            >{{ date4 | date : "fullDate" }}</label
+          >
+
+          <input
+            (click)="check($event)"
+            value="{{ date5 | date : 'fullDate' }}"
+            type="radio"
+            class="btn-check"
+            name="btnradio"
+            id="btnradio5"
+            autocomplete="off"
+          />
+          <label
+            class="btn btn-outline-primary"
+            style="font-size: 15px"
+            for="btnradio5"
+            >{{ date5 | date : "fullDate" }}</label
+          >
+
+          <input
+            (click)="check($event)"
+            value="{{ date6 | date : 'fullDate' }}"
+            type="radio"
+            class="btn-check"
+            name="btnradio"
+            id="btnradio6"
+            autocomplete="off"
+          />
+          <label
+            class="btn btn-outline-primary"
+            style="font-size: 15px"
+            for="btnradio6"
+            >{{ date6 | date : "fullDate" }}</label
+          >
+
+          <input
+            (click)="check($event)"
+            value="{{ date7 | date : 'fullDate' }}"
+            type="radio"
+            class="btn-check"
+            name="btnradio"
+            id="btnradio7"
+            autocomplete="off"
+          />
+          <label
+            class="btn btn-outline-primary"
+            style="font-size: 15px"
+            for="btnradio7"
+            >{{ date7 | date : "fullDate" }}</label
+          >
+        </div>
+      </div>
+
+      <div class="col-lg-12" style="margin-top: 50px">
+        <ng-container *ngFor="let show of shows">
+          <div class="col-lg-12">
+            <div
+              style="
+                display: flex;
+                flex-direction: column;
+                border-bottom: 1px solid #aaa;
+                padding: 20px 0;
+              "
+            >
+              <div style="display: flex">
+                <div style="margin-right: 10px">
+                  <img
+                    src="{{ show.moviePhoto }}"
+                    alt=""
+                    style="
+                      width: 200px;
+                      height: 300px;
+                      object-fit: cover;
+                      object-position: center;
+                    "
+                  />
+                </div>
+                <div>
+                  <div style="margin-left: 8px">
+                    <h3 style="color: #333; text-transform: uppercase">
+                      {{ show.movieName }}
+                    </h3>
+                    <h6
+                      style="
+                        color: #555;
+                        text-transform: capitalize;
+                        margin: 10px 0 40px 0;
+                      "
+                    >
+                      {{ show.movieLanguage }} - {{ show.movieGenre }}
+                    </h6>
+                    <!-- <h6 style="color: #888">{{ show.movieTimeLast }}</h6> -->
+                  </div>
+
+                  <div style="margin-top: 20px">
+                    <ng-container *ngFor="let showTime of show.showTimes">
+                      <a
+                        class="show-link"
+                        [routerLink]="['/details-cinema', showTime.id]"
+                        >{{ showTime.startTime }}</a
+                      >
+                    </ng-container>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </ng-container>
+        <div
+          *ngIf="shows.length <= 0"
+          style="
+            margin-bottom: 250px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 30px;
+          "
+        >
+          <img
+            src="https://img.freepik.com/free-vector/film-rolls-concept-illustration_114360-6734.jpg?size=626&ext=jpg&uid=R42465319&semt=ais"
+            alt=""
+            style="width: 200px"
+          />
+          <span>Sorry, we don't have any show times for today.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

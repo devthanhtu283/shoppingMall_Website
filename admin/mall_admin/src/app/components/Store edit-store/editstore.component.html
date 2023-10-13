@@ -1,0 +1,62 @@
+<section class="content">
+    <div class="container-fluid">       
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Edit Store</h3>
+            </div>
+
+            <ng-container *ngIf="editStoreForm != null">
+                <div class="card-body">
+                    <form method="post" [formGroup]="editStoreForm" (ngSubmit)="save()">
+                        <table style="border-spacing: 20px; border-collapse: separate;">
+                            <tr>
+                                <td>Name</td>
+                                <td>
+                                    <input type="text" style="width: 300px;" pInputText formControlName="name" />
+                                </td>
+                            </tr>
+                            <br />
+                            <tr>
+                                <td>Description</td>
+                                <td>
+                                    <textarea cols="28" rows="5" pInputTextarea
+                                        formControlName="description"></textarea>
+                                </td>
+                            </tr>
+                            <br />
+                            <tr>
+                                <td>Category</td>
+                                <select class="custom-select rounded-0" style="width: 300px;"  formControlName="categoryId">
+                                    <ng-container *ngIf="categories != null">
+                                        <option *ngFor="let category of categories" value="{{ category.id }}">
+                                            {{ category.name }}
+                                        </option>
+                                    </ng-container>
+                                </select>
+                            </tr>
+                            <br />
+                            <tr>
+                                <td>File</td>
+                                <td>
+                                    <input type="file" class="btn btn-block btn-default" (change)="selectFile($event)" />
+                                    <br />
+                                    <img src="{{ store.coverImg }}" width="90" height="100" />
+                                </td>
+                            </tr>
+                            <br />
+                            <tr>
+                                <td>&nbsp;</td>
+                                <td>
+                                    <p-button label="Save" (onClick)="save()"></p-button>
+                                    &nbsp;
+                                    <p-button label="Cancel" [routerLink]="['/admin/store-listing']"></p-button>
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+            </ng-container>
+        </div>
+    </div>
+</section>
+<p-toast></p-toast>

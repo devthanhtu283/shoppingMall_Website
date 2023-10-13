@@ -1,0 +1,51 @@
+
+<div class="hold-transition login-page">
+    <div class="login-box">
+        <!-- /.login-logo -->
+        <div class="card card-outline card-primary">
+          <div class="card-header text-center">
+            <a href="../../index2.html" class="h1" style="color: #D12E34; font-weight: 1000;"><b>ABCD MALL</b></a>
+          </div>
+          <div class="card-body">
+            <p class="login-box-msg h2" style="font-weight: 1000; color: #333333;" >Sign in</p>
+      
+            <form method="post" [formGroup]="logInForm" (ngSubmit)="login()">
+              <div class="input-group mb-3">
+                <input type="username" class="form-control" placeholder="Username" formControlName="username">
+                <div class="input-group-append">
+                  <div class="input-group-text">
+                    <span class="fas fa-user"></span>
+                  </div>
+                </div>
+              </div>
+              <div class="input-group mb-3">
+                <input type="password" class="form-control" placeholder="Password" formControlName="password">
+                <div class="input-group-append">
+                  <div class="input-group-text">
+                    <span class="fas fa-lock"></span>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-8">
+                  <div class="icheck-primary">
+                    <input type="checkbox" id="remember">
+                    <label for="remember">
+                      Remember Me
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </form>
+            <div class="social-auth-links mt-2 mb-3">
+              <button type="submit" class="btn btn-primary btn-block" (click)="login()">Sign In</button>
+            </div>
+            <p class="mb-1">
+              <a href="forgot-password.html" style="text-decoration: underline;">Forget password?</a>
+            </p>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div>
+</div>

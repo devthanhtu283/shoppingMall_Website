@@ -1,0 +1,80 @@
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Add New Movie</h3>
+            </div>
+            <div class="card-body">
+                <form method="post" [formGroup]="addMovieForm" (ngSubmit)="save()">
+                    <table style="border-spacing: 20px; border-collapse: separate;">
+                        <tr>
+                            <td>Name</td>
+                            <td>
+                                <input type="text" style="width: 400px;" pInputText formControlName="name" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Description</td>
+                            <td>
+                                <textarea cols="40" rows="5" pInputTextarea formControlName="description"></textarea>
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Duration</td>
+                            <td>
+                                <input type="text" pInputText formControlName="timeLast" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>DateExpect</td>
+                            <td>
+                                <p-calendar formControlName="dateExpect"></p-calendar>
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Genre</td>
+                            <td>
+                                <input type="text" pInputText formControlName="genre" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Language</td>
+                            <td>
+                                <input type="text" pInputText formControlName="language" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Status</td>
+                            <td>
+                                <p-inputSwitch formControlName="status"></p-inputSwitch>
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>File</td>
+                            <td>
+                                <input type="file" class="btn btn-block btn-default" (change)="selectFile($event)">
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p-button label="Save" (onClick)="save()"></p-button>
+                                &nbsp;
+                                <p-button label="Back" [routerLink]="['/admin/movie-listing']"></p-button>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <p-toast></p-toast>

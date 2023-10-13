@@ -1,0 +1,54 @@
+<section class="content">
+    <div class="container-fluid">       
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Edit TimeSlot</h3>
+            </div>
+            <ng-container *ngIf="editTimeSlotForm != null">
+                <div class="card-body">
+                    <form method="post" [formGroup]="editTimeSlotForm" (ngSubmit)="save()">
+                        <table>
+                            <tr>
+                                <td>Name</td>
+                                <td>
+                                    <input type="text" pInputText formControlName="name" />
+                                </td>
+                            </tr>
+                            <br>
+                            <tr>
+                                <td>StartTime</td>
+                                <td>
+                                    <input type="time" pInputText formControlName="startTime" />
+                                </td>
+                            </tr>
+                            <br>
+                            <tr>
+                                <td>EndTime</td>
+                                <td>
+                                    <input type="time" pInputText formControlName="endTime" />
+                                </td>
+                            </tr>
+                            <br>
+                            <tr>
+                                <td>Status</td>
+                                <td>
+                                    <input type="text" pInputText formControlName="status" />
+                                </td>
+                            </tr>
+                            <br>
+                            <tr>
+                                <td>&nbsp;</td>
+                                <td>
+                                    <p-button label="Save" (onClick)="save()"></p-button>
+                                    &nbsp;
+                                    <p-button label="Back" [routerLink]="['/admin/timeSlot-listing']"></p-button>
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+            </ng-container>
+        </div>
+    </div>
+</section>
+<p-toast></p-toast>

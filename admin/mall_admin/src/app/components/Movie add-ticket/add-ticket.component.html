@@ -1,0 +1,59 @@
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3>Add New Ticket</h3>
+            </div>
+            <div class="card-body">
+                <form method="post" [formGroup]="addTicketForm" (ngSubmit)="save()">
+                    <table>
+                        <tr>
+                            <td>Customer Name</td>
+                            <td>
+                                <input type="text" pInputText formControlName="nameCustomer" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Customer Phone</td>
+                            <td>
+                                <input type="text" pInputText formControlName="phoneCustomer" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>TimeBooked</td>
+                            <td>
+                                <p-calendar formControlName="timeBooked"></p-calendar>
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>Status</td>
+                            <td>
+                                <input type="text" pInputText formControlName="status" />
+                            </td>
+                        </tr>
+                        <br>    
+                        <tr>
+                            <td>Seat StatusId</td>
+                            <td>
+                                <input type="text" pInputText formControlName="seatStatusId" />
+                            </td>
+                        </tr>
+                        <br>
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td>
+                                <p-button label="Save" (onClick)="save()"></p-button>
+                                &nbsp;
+                                <p-button label="Back" [routerLink]="['/admin/ticket-listing']"></p-button>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <p-toast></p-toast>
