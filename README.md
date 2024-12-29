@@ -1,6 +1,6 @@
 Online Mall Management  
 📌 Giới thiệu  
-Dự án Online Mall Management là một hệ thống quản lý trung tâm thương mại trực tuyến, bao gồm các chức năng dành cho người dùng và quản trị viên. Hệ thống được phát triển bằng các công nghệ như Angular, ASP.NET, và HTML.  
+Dự án Online Mall Management là một hệ thống quản lý trung tâm thương mại trực tuyến, hệ thống đặt vé xem phim, bao gồm các chức năng dành cho người dùng và quản trị viên. Hệ thống được phát triển bằng các công nghệ như Angular, ASP.NET, và HTML,..  
 
 🚀 Các chức năng chính  
 1. Chức năng cho Người dùng (User)  
